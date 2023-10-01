@@ -1,2 +1,3 @@
 # Codeclause-internship-project
-Churn Prediction in Telecom Industry using Logistic Regression 
+ 
+End to end project on Churn Prediction in Telecom Industry using Logistic Regression
